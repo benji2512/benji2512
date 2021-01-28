@@ -1,5 +1,5 @@
 ### Hi there 👋  
-![MeInBitmoji](https://imgur.com/dIhkKNd)  
+![Imgur](https://imgur.com/dIhkKNd) 
 
 My name is Ben, pleased to meet you :smiley:
 
