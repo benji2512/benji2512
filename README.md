@@ -1,4 +1,5 @@
-### Hi there 👋 [Imgur](https://imgur.com/dIhkKNd)
+### Hi there 👋  
+[MeInBitmoji](https://imgur.com/dIhkKNd)
 
 - 🔭 I’m currently working on my final year of Software Engineering Degree in Dublin City University. Specifically a Student Assistant named Ruby
 - 🌱 I’m currently learning a lot about Natural Language Understanding through the Rasa(An open-source ML framework), a whole bunch about microservices and Kubernetes through OpenFaaS and much much more through general tinkering.
