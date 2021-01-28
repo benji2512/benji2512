@@ -6,11 +6,10 @@ My name is Ben, pleased to meet you :smiley:
 - 📫 How to reach me below:    
 
 <a href="https://benjimanclarke.ie"><img src="web-search-engine.png" alt="website icon" width="100"/></a>  
-benjimanclarke.ie
+  
 <a href="https://twitter.com/benjithedev"><img src="twitter.png" alt="twitter icon" width="100"/></a>  
-twitter.com/benjithedev  
+  
 <a href="https://instagram.com/benthedev"><img src="instagram.png" alt="instagram icon" width="100"/></a>  
-instagram.com/benthedev  
 
 <!--
 **benji2512/benji2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
