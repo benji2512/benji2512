@@ -1,5 +1,5 @@
 ### Hi there 👋  
-<img src="https://raw.githubusercontent.com/benji2512/personalWebsite/master/assets/img/bitmoji.jpg" alt="Ben in bitmoji form" width="10"/> 
+<img src="https://raw.githubusercontent.com/benji2512/personalWebsite/master/assets/img/bitmoji.jpg" alt="Ben in bitmoji form" width="100"/> 
 My name is Ben, pleased to meet you :smiley:
 
 - 🔭 I’m currently working on my final year of Software Engineering Degree in Dublin City University. Specifically a Student Assistant named Ruby
