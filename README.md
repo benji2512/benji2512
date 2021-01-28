@@ -1,6 +1,5 @@
 ### Hi there 👋  
-<blockquote class="imgur-embed-pub" lang="en" data-id="dIhkKNd"><a href="https://imgur.com/dIhkKNd">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://raw.githubusercontent.com/benji2512/personalWebsite/master/assets/img/bitmoji.jpg alt="Ben in bitmoji form">
 My name is Ben, pleased to meet you :smiley:
 
 - 🔭 I’m currently working on my final year of Software Engineering Degree in Dublin City University. Specifically a Student Assistant named Ruby
