@@ -1,9 +1,14 @@
 ### Hi there 👋   
 My name is Ben, pleased to meet you :smiley:  
-
-- 🔭 I’m currently working on my final year of Software Engineering Degree in Dublin City University. Specifically a Student Assistant named Ruby  
-- 🌱 I’m currently learning a lot about Natural Language Understanding through the Rasa(An open-source ML framework) :heartpulse: , a whole bunch about microservices and Kubernetes through OpenFaaS :boom: and much much more through general tinkering :star2:  
-📫 Use any of the below links to get in contact with me :smiley:    
+I am a **to be** graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 24 years old with a love of coding and a passion for football.
+  
+### What am I up to ?
+- 🔭 My current project is a android/IOS app for Landscapers or ground maintenance crews to accurately measure contracted their chemical to water mix should be to spray a certain area using a napsack sprayer(hand pump sprayer for your back).  It is currently in the requirememnts gathering and upskilling phase.  
+- I'm going through the tedious job of cleaing up my repos. This means that empty or nonsense repos are being removed, relevent private repos will be make public(If available to) and updating pinning ones that best showcase my work    
+- 🌱 I am also on the job hunt after finishing university :smiley:  
+  
+### Where am I ?
+📫 Use any of the below links to get in contact with me  
 
 <a href="https://benjimanclarke.ie"><img src="web-search-engine.png" alt="website icon" width="100" style="padding-right:20; padding-left: 100"/></a>
 <a href="https://twitter.com/benjithedev"><img src="twitter.png" alt="twitter icon" width="100" style="padding-right:20"/></a>
