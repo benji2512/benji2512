@@ -1,6 +1,6 @@
 ### Hi there 👋   
 My name is Ben, pleased to meet you :smiley:  
-I am a **to be** graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 24 years old with a love of coding and a passion for football.
+I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 24 years old with a love of coding and a passion for football.
   
 ### What am I up to ?
 - 🔭 My current project is a android/IOS app for Landscapers or ground maintenance crews to accurately measure contracted their chemical to water mix should be to spray a certain area using a napsack sprayer(hand pump sprayer for your back).  It is currently in the requirememnts gathering and upskilling phase.  
