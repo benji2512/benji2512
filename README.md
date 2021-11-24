@@ -1,18 +1,17 @@
 ### Hi there 👋   
 My name is Ben, pleased to meet you :smiley:  
-I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 24 years old with a love of coding and a passion for football.
+I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 24 years old with a love of coding and a passion for football.  
+Currently working for App & Browser Testing firm Browserstack as a Software Engineer.  
   
-### What am I up to ?
-- 🔭 My current project is a android/IOS app for Landscapers or ground maintenance crews to accurately measure contracted their chemical to water mix should be to spray a certain area using a napsack sprayer(hand pump sprayer for your back).  It is currently in the requirememnts gathering and upskilling phase.  
-- I'm going through the tedious job of cleaing up my repos. This means that empty or nonsense repos are being removed, relevent private repos will be make public(If available to) and updating pinning ones that best showcase my work    
-- 🌱 I am also on the job hunt after finishing university :smiley:  
+### What am I up to outside of work?
+- Creating scalable and fully customisable e-commerce websites for start-up clothing brands.
+- Planning various ideas that I will get around to doing at some stage in my life 😅  
   
-### Where am I ?
-📫 Use any of the below links to get in contact with me  
+### Where can you reach me?
+📫 Use any of the below links to get in contact with me, I am open to work on any open source software or website inquiry.  
 
 <a href="https://benjimanclarke.ie"><img src="web-search-engine.png" alt="website icon" width="100" style="padding-right:20; padding-left: 100"/></a>
-<a href="https://twitter.com/benjithedev"><img src="twitter.png" alt="twitter icon" width="100" style="padding-right:20"/></a>
-<a href="https://instagram.com/benthedev"><img src="instagram.png" alt="instagram icon" width="100" style="padding-right:20"/></a>  
+<a href="https://twitter.com/benjithedev"><img src="twitter.png" alt="twitter icon" width="100" style="padding-right:20"/></a> 
 
 <!--
 **benji2512/benji2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
