@@ -1,7 +1,7 @@
 ### Hi there 👋   
 My name is Ben, pleased to meet you :smiley:  
-I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 25 years old with a love of coding and a passion for football.  
-Currently working for App & Browser Testing firm Browserstack as a Software Engineer and volunteering as a Football Coach with the [Wicklow and District Schoolboys/Girls League](http://www.wdsl.ie)
+I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 26 years old with a love of coding and a passion for football.  
+Looking for work and volunteering as a Football Coach with the [Wicklow and District Schoolboys/Girls League](http://www.wdsl.ie)
   
 ### What am I up to outside of work?
 - Creating scalable and fully customisable e-commerce websites for start-up clothing brands.
