@@ -1,16 +1,17 @@
 ### Hi there 👋   
 My name is Ben, pleased to meet you :smiley:  
 I am a graduate of Computer Applications and Software Engineering from Dublin Ciy University. I am 26 years old with a love of coding and a passion for football.  
-Currently looking for work, volunteering as a Football Coach with the [Wicklow and District Schoolboys/Girls League](http://www.wdsl.ie) and preparing for 3 week overseas volunteering with [Nurture Africa](https://nurtureafrica.ie). I will be teaching IT Skills while over in Nansana, you can find out more at [bensnurtureafricatrip.ie](https://bensnurtureafricatrip.com)
+Currently looking for a new job.  
+In the past year I have volunteered as a Football Coach with the [Wicklow and District Schoolboys/Girls League](http://www.wdsl.ie) and spent 3 week overseas volunteering with [Nurture Africa](https://nurtureafrica.ie). I taught IT Skills alongside personal vegetable plot growing techniques while over in Nansana, you can find out more at [bensnurtureafricatrip.ie](https://bensnurtureafricatrip.com)  
   
 ### What am I coding at the moment?
-- Learning Rust (Ohh exciting I know)
+- Setting up a podcast about football(soccer) coaching
 - Practising interview questions in mostly Python 3.12
 - Planning various ideas that I will get around to doing at some stage in my life 😅  
 
 ### So, you are looking for work?
-Yes, I am currently employed by Browserstack LTD and my time is coming to an end. I am looking for a new challege, ideally this challenge would be with a company with a presence in Ireland and ideally remote but happy with a hybrid solution.
-  
+Yes!! I am looking for Software Engineering/Developer/DevOps roles ideally in the Python space but I can rapidly pickup new languages and frameworks as shown in my CV, which can be found on my website [benjimanclarke.ie](https://benjimanclarke.ie) {P.S the site was templated in Hugo using Go, so I know a little Go 🤫}
+
 ### Where can you reach me?
 📫 Use any of the below links to get in contact with me, I am open to work on any open source software or website inquiry.  
 
