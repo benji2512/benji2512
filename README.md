@@ -8,8 +8,6 @@ I studied Computer Applications and Software Engineering at Dublin City Universi
 
 ### Outside of work
 
-⚽ **Football Coach** — [Killenagh Wanderers AFC Academy](https://killenaghwanderers.com) where I coach youth players and run the club's digital presence.
-
 🤖 **Developing agents with OpenClaw** — building autonomous assistants for homelab automation and SOC workflows.
 
 ✍️ **Improving my writing** — working on more regular, thoughtful posts for my [blog](https://benjimanclarke.ie).
@@ -18,12 +16,12 @@ I studied Computer Applications and Software Engineering at Dublin City Universi
 
 ### What I'm working on
 
-- 📡 Setting up a football coaching podcast (one day it'll be live 😅)
 - 🐳 Learning Kubernetes, Docker, and the wider container ecosystem
 - 🤖 Building AI agents with OpenClaw
+- 📡 A football coaching podcast (one day it'll be live 😅)
 
 ---
 
-### Where to find me
+### Find me
 
-[benjimanclarke.ie](https://benjimanclarke.ie) · [LinkedIn](https://linkedin.com/in/benji2512) · [Twitter/X](https://twitter.com/benji2512)
+[benjimanclarke.ie](https://benjimanclarke.ie)
