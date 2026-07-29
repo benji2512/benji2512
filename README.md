@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ben — Software Developer at **IBM Dublin**, football obsessive, and tinkerer with homelabs and AI agents.
+I'm Ben — Software Developer at **IBM Dublin**, football obsessive, and homelab enthusiast with a soft spot for AI agents.
 
 I studied Computer Applications and Software Engineering at Dublin City University.
 
