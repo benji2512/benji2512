@@ -16,7 +16,8 @@ I studied Computer Applications and Software Engineering at Dublin City Universi
 
 ### What I'm working on
 
-- 🐳 Learning Kubernetes, Docker, and the wider container ecosystem
+- 🌱 Learning Go — picking it up through work projects and bringing it into my homelab and personal projects down the line
+- 🐳 Running Docker Compose in my homelab — keeping things ticking over on my own infrastructure
 - 🤖 Building AI agents with OpenClaw
 - 📡 A football coaching podcast (one day it'll be live 😅)
 
